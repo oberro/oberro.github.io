@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# **Oberrō**
 
-You can use the [editor on GitHub](https://github.com/oberro/oberro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Oberrō** is a communal project in which practitioners from multiple fields and regions can engage and develop collaborative and experimental practices. The name **Oberrō**, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with a diverse or at times no topic or practice of focus. The project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, accepting the possibility and potentials of error/failures. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Oberrō** is a communal project because we believe that each member of the community can become a host of activities, proposing independently or collectively, other contexts and formats. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **Current Projects**
 
-```markdown
-Syntax highlighted code block
+One of the ideas currently in development at **Oberrō** is the process of deconstructing the current structures of art and exhibition-making by applying *communal* culture and ethics to those processes, such as with the implementation of “house labs” and “home exhibitions” (maker-labs and exhibitions which are hosted by one or other people, in their own homes, and which are open to invited guests or open to the public).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## **Activities**
 
-1. Numbered
-2. List
+Within its activities, **Oberrō** hosts artist-run residencies, open home labs, exhibitions and develops research and publications. 
 
-**Bold** and _Italic_ and `Code` text
+   **On-going and past activities:**
 
-[Link](url) and ![Image](src)
-```
+   [May 2018] 
+        **Oberrō Artist-run Residency**, Sarajevo, Bosnia-Herzegovina
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oberro/oberro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
