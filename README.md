@@ -10,20 +10,21 @@
 
 **Oberrō** is a *communal project* because we believe that each member of the community can become a host of activities, proposing independently or collectively, other activities and formats. 
 
+One of the ideas currently in development at **Oberrō** is the process of deconstructing the current structures of art and exhibition-making by applying *communal* culture and ethics to those processes, such as with the implementation of “house labs” and “home exhibitions” (maker-labs and exhibitions which are hosted by one or other people, in their own homes, and which are open to invited guests or open to the public).
 
 
 ## **Projects**
 
-One of the ideas currently in development at **Oberrō** is the process of deconstructing the current structures of art and exhibition-making by applying *communal* culture and ethics to those processes, such as with the implementation of “house labs” and “home exhibitions” (maker-labs and exhibitions which are hosted by one or other people, in their own homes, and which are open to invited guests or open to the public).
+Within its projects, **Oberrō** hosts [artist-run residencies](https://oaresidencies.github.io/), open home labs, exhibitions and develops research and publications. 
 
+> DIY Residencies (2018)
+> [OARs](https://oaresidencies.github.io/) (2018 - ongoing)
+> Home Exhibitions (2018 - ongoing)
+> Bite to Byte (2017) 
 
 
 ## **Activities**
 
-Within its activities, **Oberrō** hosts artist-run residencies, open home labs, exhibitions and develops research and publications. 
-
-> **On-going and past activities:**
->
 > - [May 2018] **Oberrō Artist-run Residency (OAR)**, Sarajevo, Bosnia-Herzegovina
 > - [June 2018] **OAR Sarajevo Exhibition**, Sarajevo, Bosnia-Herzegovina
 
@@ -32,7 +33,7 @@ Within its activities, **Oberrō** hosts artist-run residencies, open home labs,
 
 ## **Archive**
 
-You can find the documentation of the projects developed by **Oberrō** in our [Github Wiki page](https://github.com/oberro/oberro.github.io/wiki). 
+You can find the documentation of the projects developed through **Oberrō** in our [Github Wiki page](https://github.com/oberro/oberro.github.io/wiki). 
 
 
 
