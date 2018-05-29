@@ -1,3 +1,4 @@
+
 # **Oberrō**
 
 **Oberrō** is a communal project in which practitioners from multiple fields and regions can engage and develop collaborative and experimental practices. The name **Oberrō**, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with a diverse or at times no topic or practice of focus. The project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, accepting the possibility and potentials of error/failures. 
