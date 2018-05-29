@@ -1,9 +1,11 @@
 
+![Oberro Logo](https://avatars2.githubusercontent.com/u/39494183?s=400&u=f4f7f7c4fec06854e26120cab75c184634fd2054&v=4)
+
 # **Oberrō**
 
-**Oberrō** is a communal project in which practitioners from multiple fields and regions can engage and develop collaborative and experimental practices. The name **Oberrō**, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with a diverse or at times no topic or practice of focus. The project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, accepting the possibility and potentials of error/failures. 
+**Oberrō** is a *communal project* in which practitioners from multiple fields and regions can engage and develop collaborative and experimental practices. The name **Oberrō**, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with a diverse or at times no topic or practice of focus. The project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, accepting the possibility and potentials of error/failures. 
 
-**Oberrō** is a communal project because we believe that each member of the community can become a host of activities, proposing independently or collectively, other contexts and formats. 
+**Oberrō** is a *communal project* because we believe that each member of the community can become a host of activities, proposing independently or collectively, other activities and formats. 
 
 
 ## **Current Projects**
