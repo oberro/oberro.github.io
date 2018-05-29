@@ -1,7 +1,9 @@
 
+[About](https://oberro.github.io/#about) | [Current Projects](https://oberro.github.io/#current-projects) | [Activities](https://oberro.github.io/#activities)
+
 ![Oberro Logo](https://avatars2.githubusercontent.com/u/39494183?s=400&u=f4f7f7c4fec06854e26120cab75c184634fd2054&v=4)
 
-# **Oberrō**
+## **About**
 
 **Oberrō** is a *communal project* in which practitioners from multiple fields and regions can engage and develop collaborative and experimental practices. The name **Oberrō**, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with a diverse or at times no topic or practice of focus. The project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, accepting the possibility and potentials of error/failures. 
 
@@ -17,9 +19,9 @@ One of the ideas currently in development at **Oberrō** is the process of decon
 
 Within its activities, **Oberrō** hosts artist-run residencies, open home labs, exhibitions and develops research and publications. 
 
-   **On-going and past activities:**
-
-   [May 2018] 
-        **Oberrō Artist-run Residency**, Sarajevo, Bosnia-Herzegovina
+> **On-going and past activities:**
+>
+> - [May 2018] **Oberrō Artist-run Residency (OAR)**, Sarajevo, Bosnia-Herzegovina
+> - [June 2018] **OAR Sarajevo Exhibition**, Sarajevo, Bosnia-Herzegovina
 
 
