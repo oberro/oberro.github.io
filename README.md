@@ -17,10 +17,10 @@ One of the ideas currently in development at **Oberrō** is the process of decon
 
 Within its projects, **Oberrō** hosts [artist-run residencies](https://oaresidencies.github.io/), open home labs, exhibitions and develops research and publications. 
 
-> DIY Residencies (2018)
-> [OARs](https://oaresidencies.github.io/) (2018 - ongoing)
-> Home Exhibitions (2018 - ongoing)
-> Bite to Byte (2017) 
+> - DIY Residencies (2018)
+> - [OARs](https://oaresidencies.github.io/) (2018 - ongoing)
+> - Home Exhibitions (2018 - ongoing)
+> - Bite to Byte (2017) 
 
 
 ## **Activities**
