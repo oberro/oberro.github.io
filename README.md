@@ -39,7 +39,7 @@ You can find the documentation of the projects developed by **Oberrō** in our [
 
 ## **Collaborate with us**
 
-Oberrō's page and archives are hosted at Github. Github is a web-based service which helps developers have better control of the versions and documentation process of their coded-based projects. By providing tools for developers to contribute to each others projects, it is a platform which fosters openness, shareablility and collaboration. 
+Oberrō's page and archives are hosted at Github. Github is a web-based service which helps developers have better control of the versions and documentation process of their code-based projects. By providing tools for developers to contribute to each other's projects, it is a platform which fosters openness, shareablility and collaboration. 
 
 For those same reasons, we use Github to share and document our projects and activities, inviting people to collaborate and contribute to the projects through Github.
 
