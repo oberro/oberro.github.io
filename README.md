@@ -20,7 +20,7 @@ Within its projects, **Oberrō** hosts [artist-run residencies](https://oareside
 > - DIY Residencies (2018)
 > - [OARs](https://oaresidencies.github.io/) (2018 - ongoing)
 > - Home Exhibitions (2018 - ongoing)
-> - Bite to Byte (2017) 
+> - [Bite to Byte](https://github.com/oberro/Bite-to-Byte) (2017) 
 
 
 ## **Activities**
