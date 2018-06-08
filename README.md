@@ -25,7 +25,7 @@ Within its projects, **Oberrō** hosts [artist-run residencies](https://oareside
 
 ## **Activities**
 
-> - [May 2018] **Oberrō Artist-run Residency (OAR)**, Sarajevo, Bosnia-Herzegovina
+> - [May 2018] [**Oberrō Artist-run Residency (OAR)**](https://github.com/OAResidencies/Sarajevo2018), Sarajevo, Bosnia-Herzegovina
 > - [June 2018] **OAR Sarajevo Exhibition**, Sarajevo, Bosnia-Herzegovina
 
 
